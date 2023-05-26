@@ -1,0 +1,97 @@
+<mjml>
+
+    <mj-head>
+        <mj-font name="Open-sans" href="https://fonts.googleapis.com/css2?family=Open+Sans" />
+        <mj-attributes>
+            <mj-text font-family="Open sans, sans serif" align="center" font-size="18px" line-height="26px" color="#333333"
+                padding="0px" />
+            <mj-image src="" alt="" padding="0px" />
+            <mj-button background-color="#333333" font-size="12px" color="#faf9f5" font-family="Open Sans,sans serif"
+                font-weight="700" text-transform="uppercase" border-radius="25px" height="45px" width="180px" />
+            <mj-section padding="0" background-color="#faf9f5" />
+            <mj-class name="head-text" font-size="48px" line-height="69px" text-transform="uppercase" />
+        </mj-attributes>
+        <mj-title>Off-the record</mj-title>
+    </mj-head>
+<mj-body width="600px" background-color="#faf9f5">
+<!-- logo section -->
+    <mj-section>
+    <mj-column >
+         <mj-image src="https://d3k81ch9hvuctc.cloudfront.net/company/Hsf3JS/images/b349698b-3543-4d6c-afe3-8c076024a956.png" alt="Logo" />
+    </mj-column>
+    </mj-section>
+    <!-- logo section -->
+    <!-- call to action section -->
+    <mj-section>
+    <mj-column>
+    <mj-text>
+        <h1 font-weight="300" text-align="center"><a href="#" style="color:inherit;text-decoration:none;">Gain Power</a></h1>
+    </mj-text>
+    <mj-button href="https://www.google.com/" letter-spacing="1px">
+        Make your Gain
+    </mj-button>
+    </mj-column>
+    </mj-section>
+    <!-- call to action section -->
+    <!-- banner section -->
+    <mj-section>
+        <mj-column >
+            <mj-image src="https://d3k81ch9hvuctc.cloudfront.net/company/Hsf3JS/images/40a7a871-ada8-457e-bc30-f566f85dd0e4.png" alt="banner-image" padding-top="10px"/>
+        </mj-column>
+    </mj-section>
+    <!-- banner section -->
+    <!-- text section -->
+    <mj-section>
+        <mj-column >
+            <mj-text padding="40px">
+                Your personalized suite of Gainful products are made to empower you to Make Your Gain. No matter your goals. This week, we’re helping you <strong>Gain Power</strong> with curated features, tips, recipes, and more.
+            </mj-text>
+            <mj-button href="https://www.google.com/" letter-spacing="1px">
+        Join Gainful
+    </mj-button>
+        </mj-column>
+    </mj-section>
+    <!-- text section -->
+     <!-- lower nav section -->
+    <mj-section background-color="#333">
+    <mj-column>
+    <mj-text>
+        <h1 font-weight="300" text-align="center"><a href="https://www.google.com/" style="color:inherit;text-decoration:none;text-transform:uppercase;color:#faf9f5;">Gainful</a></h1>
+    </mj-text>
+    <mj-text color="#faf9f5" font-size="16px" padding-bottom="10px">
+        <a href="https://www.google.com/" style="color:inherit;text-decoration:none">Discount</a>
+    </mj-text>
+    <mj-text color="#faf9f5" font-size="16px" padding-bottom="10px">
+       <a href="https://www.google.com/" style="color:inherit;text-decoration:none"> FAQ</a>
+    </mj-text>
+    <mj-text color="#faf9f5" font-size="16px" padding-bottom="10px">
+       <a href="https://www.google.com/" style="color:inherit;text-decoration:none"> Referrel</a>
+    </mj-text>
+    </mj-column>
+    </mj-section>
+    <!-- lower nav section -->
+     <!-- social media section -->
+    <mj-section background-color="#333">
+    <mj-column padding="10px">
+    <mj-text>
+        <img src="https://d3k81ch9hvuctc.cloudfront.net/company/Hsf3JS/images/a2c6a6c2-01df-4857-bf8b-cb4f9a43c01a.png" alt="Instagram" style="width:48px">
+        <img src="https://d3k81ch9hvuctc.cloudfront.net/company/Hsf3JS/images/773fa2ce-7b93-44db-9b65-d1bb73ffde4d.png" alt="Facebook" style="width:48px">
+        <img src="https://d3k81ch9hvuctc.cloudfront.net/company/Hsf3JS/images/64130609-cc89-46e4-94f8-19861543e441.png" alt="Tiktok" style="width:48px">
+    </mj-text>
+    </mj-column>
+    </mj-section>
+    <!-- social media section -->
+     <!-- footer section -->
+    <mj-section background-color="#333">
+    <mj-column>
+    <mj-text color="#faf9f5" font-size="10px" padding-bottom="3px">
+    No longer want to receive these emails? <a href="https://www.google.com/" style="color:inherit;">Unsubscribe</a> 
+    </mj-text>
+    <mj-text color="#faf9f5" font-size="10px" padding-bottom="3px">
+   <a href="https://www.google.com/" style="color:inherit;text-decoration:none">Gainful 6 W 18th Street #10F Flatiron District, NY 10111</a>  
+    </mj-text>
+    </mj-column>
+    </mj-section>
+    <!-- footer section -->
+</mj-body>
+</mjml>
